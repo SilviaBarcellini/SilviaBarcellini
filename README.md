@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on **bakend**, a baking ingredients converter app 🍩
 - 🌱 I’m currently learning Web Development
-- 👯 I’m looking to collaborate with ther content creators
-- 💬 Ask me about anything
+- 🧘‍♀️ I'm happy to make complex concepts easy to understand
+- 💬 Ask me about React and NextJs
 - ⚡ Fun fact: pastry chef 🧁
 - 💌 Get in Touch per DM or on [Linkedin](https://www.linkedin.com/in/silvia-barcellini)
 
